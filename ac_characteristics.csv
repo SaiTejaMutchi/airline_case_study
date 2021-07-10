@@ -1,0 +1,7 @@
+﻿Aircraft Type, Range (km), Average Speed (km/h), Number of Seats, Costs per flight hour
+A320, 5000, 800, 150, 5000
+A330, 8000, 900, 250, 7500
+B737, 5000, 800, 150, 5100
+B747, 10000, 900, 350, 12000
+Q400, 1500, 750, 90, 3500
+ATR72, 1000, 650, 75, 2750
